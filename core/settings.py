@@ -148,3 +148,4 @@ MEDIA_URL = '/media/'
 
 ALLOWED_HOSTS = ['healthcare-on-demand.herokuapp.com/', '127.0.0.1']
 CORS_ORIGIN_ALLOW_ALL = True
+DISABLE_COLLECTSTATIC = 1
